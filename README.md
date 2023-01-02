@@ -1,1 +1,1 @@
-# Kaggele-Novozyme-Enzyme-Stability-Prediction
+# Novozyme-Enzyme-Stability-Prediction
