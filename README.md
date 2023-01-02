@@ -1,1 +1,2 @@
 # Novozyme-Enzyme-Stability-Prediction
+To develop a model to predict/rank the thermal stability of Enzyme variants based on experimental melting temperature data,which is obtained from Novozymes's high throughput screening lab1
